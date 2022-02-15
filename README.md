@@ -12,6 +12,6 @@
 
 # Lab
 ## About team task management (screenshot/description)
-![trello img](https://github.com/Bessonica/gameToShaketheWorld/main/trello.png)
+![alt text](https://github.com/Bessonica/gameToShaketheWorld/blob/main/trello.png)
 
 ## Chosen games analysis
