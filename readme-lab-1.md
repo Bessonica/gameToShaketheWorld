@@ -5,7 +5,7 @@
 team name: Zveri Inc.
 
 ## Team members list 
-1. Панфілов Дмитро ІП-95
+1. Панфілов Дмитро ІП-95 - team leader
 2. Кравчук Дмитро ІП-95
 3. Ємельяненко Ярослава ІА-92
 
@@ -15,8 +15,14 @@ team name: Zveri Inc.
 
 # Lab
 ## About team task management (screenshot/description)
-![alt text](https://github.com/Bessonica/gameToShaketheWorld/blob/main/trello.png)
+![alt text](https://github.com/Bessonica/gameToShaketheWorld/blob/develop/taskManager.png)
 
 ## Chosen games analysis
-Google drive:
+Description #1
+https://docs.google.com/document/d/1I2JOP2KfSaLWi8rCjIy---NqywdmQhz1XW2DHQlD0xA/edit?usp=sharing
+
+Description #2
+https://docs.google.com/document/d/1sBuhWz9eVwavINjHrwrqbMkkxqTpBNopX2jxrXz8ygs/edit?usp=sharing
+
+Description #3
 https://docs.google.com/document/d/1Ua6HDzZ3ShX1O3r681Fg3WvwHk564xwtTcITVrCqr1c/edit?usp=sharing
